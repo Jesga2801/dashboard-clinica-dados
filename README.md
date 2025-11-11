@@ -1,23 +1,32 @@
-# Dashboard de Indicadores de Clínica
+# Dashboard de Indicadores – Clínica Estética
 
-Projeto desenvolvido em Excel para análise de indicadores de atendimento, fidelização e faturamento.  
-Este dashboard foi construído com base em dados fictícios, com foco em demonstrar habilidades de:
+Este projeto apresenta um painel de análise de indicadores de desempenho operacional em ambiente de saúde/estética, com foco em acompanhamento de resultados e suporte à tomada de decisão.
 
-- Organização de dados (planilha estruturada)
-- Criação de métricas (faturamento, ticket médio, retorno)
-- Tabela Dinâmica para consolidação
-- Visualização (gráficos + cartões de indicadores)
+## Objetivo
+Fornecer uma visualização clara e dinâmica de métricas essenciais, permitindo identificar:
+- Volume de atendimentos
+- Receita total (faturamento)
+- Ticket médio por cliente
+- Taxa de retorno/fidelização
+- Procedimento mais realizado
 
-## Indicadores Incluídos:
-- Faturamento Total
-- Quantidade de Clientes
-- Ticket Médio
-- Percentual de Retorno
-- Procedimento Mais Vendido
+## Ferramentas Utilizadas
+- Excel / Excel Online
+- Tabela Dinâmica
+- Gráficos Dinâmicos
+- Fórmulas e métricas personalizadas
 
-## Ferramentas Utilizadas:
-Excel Online / Excel Desktop
+## Principais Indicadores Criados
+| Indicador | Descrição |
+|----------|----------|
+| Faturamento Total | Soma de receita obtida |
+| Ticket Médio | Receita por cliente |
+| Percentual de Retorno | Clientes que retornam para novo atendimento |
+| Procedimento Mais Vendido | Serviço com maior volume no período |
+| Quantidade Total de Clientes | Base ativa analisada |
 
----
+## Autor
+Jéssica Borges  
+Transição para Desenvolvimento e Análise de Dados  
+LinkedIn: https://www.linkedin.com/in/jessica-borges-7bb452a5/
 
-Jéssica Oliveira
